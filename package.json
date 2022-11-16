@@ -6,7 +6,7 @@
 	"author": "Surendran CJ",
 	"description": "Core Utilities for making Terra Games",
 	"dependencies": {
-		"cinemachine" : "2.6"
+		"cinemachine" : "2.8.0"
 	},
 	"repository": {
 		"type": "git",
