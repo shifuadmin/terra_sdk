@@ -1,0 +1,14 @@
+{
+	"name": "Terra_SDK",
+	"displayName": "playshifu Core Package",
+	"version": "0.0.1",
+	"unity": "2021.3.3f1",
+	"author": "Surendran CJ",
+	"description": "Core Utilities for making Terra Games",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shifuadmin/terra_sdk.git"
+	}
+}
