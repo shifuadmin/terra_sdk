@@ -1,5 +1,5 @@
 {
-	"name": "terra_sdk",
+	"name": "com.playshifu.terra_sdk",
 	"displayName": "playshifu Core Package",
 	"version": "0.0.1",
 	"unity": "2021.3",
